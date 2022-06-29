@@ -1,5 +1,7 @@
 # Customer_Analysis_App
 
+# https://investments-customer-analysis.herokuapp.com/
+
 The purpose of this App is to help the Sales and Credit team catch potential future defaulters early on and have a targeted approach to marketing and 
 collections efforts with those clients. The nature of our business is to be as all inclusive as possible, thus the name 'National Housing Empowerment Fund'.
 Customers are able to purchase plots on payments ranging from 12 months, 24 months, 36 months, 48 months, and 60 months.
