@@ -15,4 +15,6 @@ of customers. My goal for this app is to ensure that the two teams can now have 
 The App will continue to be updated the more team members use it.
 For more insight, feel free to follow the following link (web page is still in development)
 
+*Please be advised that certain plot prices can only be sold on a payment plan that is less than 48 Months.
+
 # THANK YOU FOR READING THROUGH!
